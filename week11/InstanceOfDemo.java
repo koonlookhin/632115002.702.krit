@@ -3,6 +3,7 @@ package week11;
 class A{
 
 }class B extends  A{
+    
 }
 //}class C {
 class C extends B{
